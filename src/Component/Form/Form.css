@@ -1,0 +1,20 @@
+* {
+    /* border: 1px solid black */
+}
+.inputContainer {
+    margin-top: 80px;
+}
+
+.input-group {
+    display: flex;
+    justify-content: center;
+    width: 600px;
+}
+
+.inplist {
+    width: 555px;
+}
+
+.inplist:focus {
+    outline-color: red;
+}
